@@ -1,0 +1,7 @@
+mkdocs
+mkdocs-material
+pymdown-extensions
+mkdocs-material-extensions
+gspread
+oauth2client
+python-dotenv
